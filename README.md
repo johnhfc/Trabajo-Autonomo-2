@@ -119,9 +119,9 @@ Los diagramas se encuentran en la carpeta [`diagramas/`](diagramas/).
 
 ##  Videos
 
-- Video del Paso 1 (configuración del repositorio, avance del código y relación con los diagramas): 
-- Video del Paso 2 (explicación del desarrollo): 
-- Video demostrativo del funcionamiento: 
+- Video del Paso 1 (configuración del repositorio, avance del código y relación con los diagramas): https://drive.google.com/file/d/1X2T3ZcXLGCZX-MmBZ-kh4eXSQVxspSaB/view?usp=sharing
+- Video del Paso 2 (explicación del desarrollo): https://drive.google.com/file/d/1F1FMUd-DLHame4SXPgOm36ZFTH8c89OD/view?usp=sharing 
+- Video demostrativo del funcionamiento: https://drive.google.com/file/d/1p0n8wucUptIeliAbO8GP5FxlCAOFAKsV/view?usp=sharing
 
 ##  Autor
 
