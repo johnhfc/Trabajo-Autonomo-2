@@ -1,5 +1,4 @@
-# Juego de la Serpiente (Snake)
-# Hecho solo con Python y sus librerías estándar: turtle, random y time.
+
 
 import turtle
 import random
