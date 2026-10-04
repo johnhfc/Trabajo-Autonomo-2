@@ -1,8 +1,4 @@
-# =====================================================
-# Juego de la Serpiente (Snake)
-# Hecho en Python con tkinter y ttkbootstrap
-# Instalar la librería una sola vez:  pip install ttkbootstrap
-# =====================================================
+
 
 import random
 import tkinter as tk
